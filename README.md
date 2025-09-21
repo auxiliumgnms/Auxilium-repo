@@ -1,81 +1,71 @@
-Auxilium Designs Showcase
+# My Canva Designs Showcase
 
-1. EEG PPT
+Welcome to my collection of designs created using Canva\! This repository showcases various projects, including presentations, posters, and certificates.
 
-A presentation on Electroencephalography (EEG).
+-----
 
-<img src="assets/eeg-ppt-preview.png" alt="EEG PPT Preview" width="600"/>
+### **1. EEG PPT**
 
-View on Canva
 
-2. New Zealand University Fair Poster
+[View Design](https://www.canva.com/design/DAGlp-mX9Ro/rPGKNhQzxxMWQG10FXOkow/edit)
 
-A poster designed for a university fair in New Zealand.
+-----
 
-<img src="assets/nz-uni-poster-preview.png" alt="New Zealand University Fair Poster Preview" width="600"/>
+### **2. New Zealand University Fair Poster**
 
-View on Canva
 
-3. Homecoming PPT
+[View Design](https://www.canva.com/design/DAGitTnthDs/uLoN1c6M-ukI4tdrIJV5XA/edit)
 
-A presentation created for a homecoming event.
+-----
 
-<img src="assets/homecoming-ppt-preview.png" alt="Homecoming PPT Preview" width="600"/>
+### **3. Homecoming PPT**
 
-View on Canva
 
-4. CBSE UAE Cluster Taekwondo Championship
+[View Design](https://www.canva.com/design/DAGl4wZL3sM/FFgidkZ_9fznp90MyPCXtQ/edit)
 
-A design for the Taekwondo Championship.
+-----
 
-<img src="assets/taekwondo-championship-preview.png" alt="CBSE UAE Cluster Taekwondo Championship Preview" width="600"/>
+### **4. CBSE UAE Cluster Taekwondo Championship**
 
-View on Canva
 
-5. CBSE UAE Cluster Archery
+[View Design](https://www.canva.com/design/DAGmLcEJmf8/cWPsur5lRetAAM-V0VlgWQ/edit)
 
-A design for the Archery competition.
+-----
 
-<img src="assets/archery-preview.png" alt="CBSE UAE Cluster Archery Preview" width="600"/>
+### **5. CBSE UAE Cluster Archery**
 
-View on Canva
+[View Design](https://www.canva.com/design/DAGmNRBq4U0/H3xYS-R2TaNiY85SCy-_wg/edit)
 
-6. Smash Till You Drop Certificate
+-----
 
-A certificate design for a gaming event.
+### **6. Smash Till You Drop Certificate**
 
-<img src="assets/smash-certificate-preview.png" alt="Smash Till You Drop Certificate Preview" width="600"/>
 
-View on Canva
+[View Design](https://www.canva.com/design/DAGmTHnOQl8/e0jubZZy9Uga-nW4hIqITA/edit)
 
-7. CBSE UAE Cluster Swimming Meet
+-----
 
-A design for the Swimming Meet.
+### **7. CBSE UAE Cluster Swimming Meet**
 
-<img src="assets/swimming-meet-preview.png" alt="CBSE UAE Cluster Swimming Meet Preview" width="600"/>
+[View Design](https://www.canva.com/design/DAGm14TJN9Q/Nhrtt6uhq7-W0zCAA0W4TA/edit)
 
-View on Canva
+-----
 
-8. Teachers Day PPT
+### **8. Teachers Day PPT**
 
-A presentation for Teachers' Day.
 
-<img src="assets/teachers-day-ppt-preview.png" alt="Teachers Day PPT Preview" width="600"/>
+[View Design](https://www.canva.com/design/DAGxeBGnXLY/80szq4_oXfNETE6vGTll0Q/edit)
 
-View on Canva
+-----
 
-9. Aquaphilia
+### **9. Aquaphilia**
 
-A design for "Aquaphilia".
 
-<img src="assets/aquaphilia-preview.png" alt="Aquaphilia Preview" width="600"/>
+[View Design](https://www.google.com/search?q=https://www.canva.com/design/DAGwx5kX-0I/s657HsMrATORzNLLJodiMQ/edit)
 
-View on Canva
+-----
 
-10. NMS X Factor
+### **10. NMS X Factor**
 
-A design for the "NMS X Factor" event.
 
-<img src="assets/nms-x-factor-preview.png" alt="NMS X Factor Preview" width="600"/>
-
-View on Canva
+[View Design](https://www.canva.com/design/DAGqkGZAmow/YdGWFi5v8JhM7tdYVqAQvA/edit)
