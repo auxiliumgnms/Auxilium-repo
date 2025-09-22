@@ -1,6 +1,7 @@
 # My Canva Designs Showcase
 
-Welcome to designs made by Auxilium for docuentation purposes\! This repository showcases various projects, including presentations, posters, and certificates.
+Welcome to designs made by Auxilium.
+This repository showcases various projects, including presentations, posters, and certificates.
 
 -----
 
